@@ -1,0 +1,95 @@
+.warna1 {
+    background-color: #395144;
+}
+
+.warna2 {
+    background-color: #4E6C50;
+}
+
+.warna3 {
+    background-color: #AA8B56;
+}
+
+.warna4 {
+    background-color: #F0EBCE;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+        url('../image/banner.png');
+    background-position: center;
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-mamalia {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/mamalia.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-melata {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/melata.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-unggas {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/unggas.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #AA8B56;
+}
+
+.image-box {
+    height: 250px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.btn-outline-warning {
+    background-color: green;
+    border-color: green;
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.banner2 {
+    height: 50vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+        url('../image/banner.png');
+    
+}
+
+.terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
